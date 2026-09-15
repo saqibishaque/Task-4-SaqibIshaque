@@ -16,4 +16,25 @@ This project transitions from static linear scripts to an **Input-Process-Output
 
 ---
 
-## 🏗️ Architecture: The IPOS Flow
+## ⚙️ Features
+
+- **Leading/Trailing Whitespace Stripping:** Eliminates accidental spaces, tabs (`\t`), and newlines (`\n`)[cite: 1].
+- **Case Normalization:** Guarantees that inputs such as `Paris`, `paris`, and `PARIS` evaluate uniformly[cite: 1].
+- **Explicit Branching:** Employs clean `if-else` gates ensuring deterministic outcomes for both valid and invalid answers[cite: 1].
+- **Aligned CLI Output:** Uses field width alignment for formatted score reporting[cite: 1].
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- **Python 3.8+** installed on your machine.
+
+### Installation & Execution
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/general-knowledge-quiz.git](https://github.com/your-username/general-knowledge-quiz.git)
+   cd general-knowledge-quiz
+  Run the script:
+   ```bash
+   python quiz.py
