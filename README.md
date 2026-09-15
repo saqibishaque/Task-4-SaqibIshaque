@@ -33,8 +33,8 @@ This project transitions from static linear scripts to an **Input-Process-Output
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/general-knowledge-quiz.git](https://github.com/your-username/general-knowledge-quiz.git)
-   cd general-knowledge-quiz
+   git clone [https://github.com/saqibishaque/Task-4-SaqibIshaque.git](https://github.com/saqibishaque/Task-4-SaqibIshaque.git)
+   cd Task-4-SaqibIshaque
   Run the script:
    ```bash
    python quiz.py
